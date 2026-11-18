@@ -1,0 +1,9 @@
+MEGA OPTICA — WEB PARA GITHUB
+
+Sube todos los archivos de este ZIP a la raiz del repositorio (mismo nivel que index.html). No crees carpetas para las fotos.
+
+Para publicarlo en Vercel: conecta el repositorio y selecciona Framework Preset: Other; directorio raiz: ./; sin comando de build.
+
+El pixel de Meta aun no esta instalado: se agregara cuando compartas el ID o codigo.
+
+Los reels de Instagram necesitan conexion a internet para mostrarse.
